@@ -1,0 +1,16 @@
+playerMaxHealth=2340
+playerHealth=2340
+playerMaxMagic=3100
+playerMagic=149
+playerAttack=1016
+playerSpeed=22
+playerMaxExp=11647.1704102
+playerExp=7305.65917969
+playerLevel=14
+playerDistance=15
+monsterLevel=18
+monsterHealth=1715
+monsterAttack=352
+monsterSpeed=23
+monsterEXP=172
+monsterDistance=20
